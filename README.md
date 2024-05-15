@@ -2,7 +2,7 @@
 
 * Project objective: 
 
-1. Create a [customer performance report](Customer NetSales Performance.pdf)
+1. Create a [customer performance report](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/f33fce0c032b82569b674b68e7648dfb693cffe2/Customer%20NetSales%20Performance.pdf)
  
 2. Conduct a comprehensive comparison between _market performance and sales targets 
  
