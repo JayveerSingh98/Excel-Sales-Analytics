@@ -4,7 +4,7 @@
 
 1. Create a [customer performance report](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/f33fce0c032b82569b674b68e7648dfb693cffe2/Customer%20NetSales%20Performance.pdf)
  
-2. Conduct a comprehensive comparison between _market performance and sales targets 
+2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/1904d1688f7bf491ca5072b5b9af5afa15d64ac3/Market%20Performance%20vs%20Target.pdf)
  
 
 3. Create a Division performance report 
