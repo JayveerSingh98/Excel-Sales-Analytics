@@ -2,7 +2,7 @@
 
 * Project objective: 
 
-1. Create a customer performance report Customer NetSales Performance.pdf
+1. Create a customer performance report 
  
 2. Conduct a comprehensive comparison between _market performance and sales targets 
  
