@@ -1,1 +1,20 @@
-# Excel-Sales-Analytics
+# Sales Analytics Report:
+*Project objective: 
+
+1. Create a customer performance report 
+ 
+2. Conduct a comprehensive comparison between _market performance and sales targets 
+ 
+
+3. Create a Division performance report 
+ 
+
+*Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance. 
+ 
+
+*Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs). 
+ 
+
+*Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries. 
+
+ 
