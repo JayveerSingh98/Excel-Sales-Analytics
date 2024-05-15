@@ -7,7 +7,7 @@
 2. Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/1904d1688f7bf491ca5072b5b9af5afa15d64ac3/Market%20Performance%20vs%20Target.pdf)
  
 
-3. Create a Division performance report 
+3. Create a [Division performance report](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/611dcdb4f5d536d2581fa186b71b1014ccaa483f/Division%20NetSales%20Performance.pdf)
  
 
 * Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance. 
@@ -23,11 +23,11 @@
  
 * Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/611dcdb4f5d536d2581fa186b71b1014ccaa483f/P%26L%20statement%20by%20Fiscal%20year.pdf) & [Months](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/611dcdb4f5d536d2581fa186b71b1014ccaa483f/P%26L%20statement%20by%20month.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/611dcdb4f5d536d2581fa186b71b1014ccaa483f/P%26L%20statement%20by%20markets.pdf)
 
-3. Create Gross Margin% (GM) reports by Quarters
+3. Create Gross Margin% (GM) reports by [Quarters](https://github.com/JayveerSingh98/Excel-Sales-Analytics/blob/611dcdb4f5d536d2581fa186b71b1014ccaa483f/Gross%20Margin%20by%20Quarters.pdf)
 
 * Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
